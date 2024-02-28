@@ -1,3 +1,8 @@
 .DS_Store
 .idea/
 notebooks/emotion_features.csv
+notebooks/crema_evaluation_features.csv
+notebooks/emo_db_evaluation_features.csv
+notebooks/ravdess_evaluation_features.csv
+notebooks/savee_evaluation_features.csv
+notebooks/tess_evaluation_features.csv
